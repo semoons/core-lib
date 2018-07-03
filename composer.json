@@ -1,0 +1,18 @@
+{
+    "name": "kucms/core-lib",
+    "description": "kucms 基础库",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "semoons",
+            "email": "12139267@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "kucms\\": "src"
+        }
+    }
+}
